@@ -12,10 +12,14 @@ img{
     display: flex;
 }
 
+.fondo{
+    background-color: rgb(166, 255, 0);
+}
+
 .boton{
     background-color: darkviolet;
-    padding: 2%;
-    margin: 2px;
+    padding: 5px,3px,1px,0px
+    margin: 20px;
     font-size: large;
 }
 
@@ -26,11 +30,11 @@ img{
 }
 
 .titulo1{
-    color: chartreuse;
+    color: rgb(5, 245, 45);
 }
 
 .titulo2{
-    color: rgb(255, 0, 106);
+    color: rgb(5, 245, 45);
 }
 
 .texto {
@@ -43,7 +47,7 @@ Class="texto"*/
     font-size: 18px:
     font-weight: bold ;
     text-alight: center;
-    color: 200;
+    color:rgb(255, 0, 106)
 
 
 }
